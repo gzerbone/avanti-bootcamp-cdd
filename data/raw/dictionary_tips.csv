@@ -1,8 +1,8 @@
-,variavel,descrição,tipo,subtipo
-0,total_bill,conta total em dolares,quantitativa,continua
-1,tip,gorjeta em dolares,quantitativa,continua
-2,sex,gênero do pagante,qualitativa,nominal
-3,smoker,existência de fumantes na mesa(sim ou não),qualitativa,nominal
-4,day,dia da semana,qualitativa,nominal
-5,time,momento da refeição,qualitativa,nominal
-6,size,quantidade de pessoas por mesa,quantitativa,discreta
+variavel,descrição,tipo,subtipo
+total_bill,conta total em dolares,quantitativa,continua
+tip,gorjeta em dolares,quantitativa,continua
+sex,gênero do pagante,qualitativa,nominal
+smoker,existência de fumantes na mesa(sim ou não),qualitativa,nominal
+day,dia da semana,qualitativa,nominal
+time,momento da refeição,qualitativa,nominal
+size,quantidade de pessoas por mesa,quantitativa,discreta
